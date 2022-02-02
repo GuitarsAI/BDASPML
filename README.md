@@ -13,4 +13,4 @@ This series is very practical as we start with a code example, and we explore th
  [![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtube.com/playlist?list=PL6QnpHKwdPYi-600wCa4PPIrP2DpgKqFk)
  
  ## Content
-  - Introduction: [![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/zzEHTIJZMuc)
+  - Introduction: [![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/zzEHTIJZMuc)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GuitarsAI/BDASPML/blob/main/bdaspml_01_intro.ipynb)
