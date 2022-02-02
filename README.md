@@ -1,5 +1,8 @@
 # Basics of Digital Audio Signal Processing and Machine Learning using Python
 Renato Profeta
+<p align="center">
+    <img src="./images/logo.jpg">
+</p>
 
 This is a from zero to hero series in which we learn DSP and Machine Learning theory side-by-side with learning Python Programming.
 No background or previous knowledge is necessary but if you know some higher level maths it would help.
