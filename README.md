@@ -14,5 +14,9 @@ This series is very practical as we start with a code example, we explore the th
  
  ## Content
   - Introduction: [![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/zzEHTIJZMuc)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GuitarsAI/BDASPML/blob/main/bdaspml_01_intro.ipynb)
+  - Code Example 01 - Playback of a Wavefile (.wav) using Python: [![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/s-Y4N8WjYDc)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GuitarsAI/BDASPML/blob/main/bdaspml_03_samplingTheory.ipynb)
+  - DSP Theory - Sampling: [![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/_KD3dPaQBZs)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GuitarsAI/BDASPML/blob/main/bdaspml_03_samplingTheory.ipynb)
+    - Sampling Rate [![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/eSzAdBLzMjg)
+    - Bit Depth [![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/BPOJWAsEJLc)
 
 # More Content will come when video tutorials are available in YouTube
